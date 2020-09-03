@@ -71,7 +71,7 @@ block要素の寄せ
 block要素の寄せ
 ======================================================*/
 .block_sample{
-  background-color: #cc0088;
+  background-color: #80b836;
   color: #fff;
   padding: 15px;
   margin: 5px;
@@ -111,8 +111,6 @@ block要素の寄せ
 ======================================================*/
 
 .float_test .sub_pic{
-  width:300px;
-  float: left;
   display: block;
   margin-right: 20px;
   margin-bottom: 15px;
